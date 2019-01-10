@@ -1,4 +1,4 @@
-# CHAIN_ML
+# The CHAIN Machine Learning repository
 This repository contains machine learning approaches and code for the CHAIN study. 
 
 ## Setup up the appropriate python environment from the command line
