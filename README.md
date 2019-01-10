@@ -3,12 +3,12 @@ This repository contains machine learning approaches and code for the CHAIN stud
 
 ## Setup up the appropriate python environment from the command line
 
-Install Anaconda  https://www.anaconda.com/download/
+Install Anaconda  by downloading the appropriate package from this URL https://www.anaconda.com/download/
 
-Restart the terminal and ensure that Anaconda is in your PATH, Make a new Enviromenment for the CHAIN ML work as follows.
+Restart the terminal and ensure that Anaconda is in your PATH, Make a new environment for the CHAIN ML work as follows.
 
 ```
-$ Conda update conda
+$ conda update conda
 $ conda create -n chain_ml python=3.6
 ```
 Activate this new environment and install the necessary packages
@@ -20,7 +20,9 @@ $ conda install -c conda-forge py-xgboost
 $ conda install umap hyperopt
 ```
 
-The enviroment is now setpup. Load it with source activate chain_ml every time you wish to use it. 
+The environment is now ready for use.
+
+Load it with ```source activate chain_ml``` every time you wish to use it. 
 
 Happy learning!
 
